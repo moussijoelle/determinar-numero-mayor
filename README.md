@@ -1,26 +1,26 @@
-﻿# Determinar número mayor
+# Determinar el número mayor
 
-Compara dos enteros y muestra cuál es mayor.
+Dos enteros entran; sale el más grande.
 
 ## Qué hace
 
-- Dos inputs enteros
-- Usa `Math.max` para el resultado
+- Dos inputs
+- Usa `Math.max`
 - Guía en `guia-ejercicio-mayor.html`
 
 ## Cómo probarlo
 
-Abre `index.html` o la demo.
+Abre `index.html`.
 
 Demo: https://moussijoelle.github.io/determinar-numero-mayor/
 
 ## Cómo lo construí
 
-- HTML + JavaScript (`app.js`)
+HTML + `app.js`. Validación si no son números.
 
 ## Cómo verificarlo
 
-Sin tests. Pruebo pares distintos e inputs no numéricos.
+3 y 9, luego -2 y -8, luego texto.
 
 ---
 
